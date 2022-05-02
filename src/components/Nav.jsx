@@ -1,6 +1,6 @@
 export default function Nav() {
     return (
-        <div className="nav">
+        <div className="nav greyish">
             <p>Dashboard</p>
             <p>Widget</p>
             <p>Reviews</p>
